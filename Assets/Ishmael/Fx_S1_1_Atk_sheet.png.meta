@@ -1,0 +1,582 @@
+fileFormatVersion: 2
+guid: 7a06175a7bbd3dd49b6f4e4f7920219d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8962080667682775881
+    second: Fx_S1_1_Atk_sheet_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fx_S1_1_Atk_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2640
+        width: 1718
+        height: 660
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc5f5aad1b40a380800000000000000
+      internalID: -8962080667682775881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S1_1_Atk_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 2640
+        width: 1718
+        height: 660
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535e7fa2ad1a2a8428b1ef4686fd974d
+      internalID: -1690875935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S1_1_Atk_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 2640
+        width: 1718
+        height: 660
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da48f86b6ae0b44cae6a5dae207bed4
+      internalID: -1841584935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S1_1_Atk_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 5154
+        y: 2640
+        width: 1718
+        height: 660
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae11f3f6055e3345a6e7cdf14f65d21
+      internalID: -1353650547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S1_1_Atk_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1980
+        width: 1718
+        height: 660
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79091976578d7a840849bf91180ddd23
+      internalID: -446353649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S1_1_Atk_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1980
+        width: 1718
+        height: 660
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49dbd74fa7d23f4da56452493cc76bf
+      internalID: -932612687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S1_1_Atk_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 1980
+        width: 1718
+        height: 660
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401ce015ae7dc88469529b50a7440792
+      internalID: 447124458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S1_1_Atk_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 5154
+        y: 1980
+        width: 1718
+        height: 660
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c640ba661194a5f44b2c08bb465b5ba6
+      internalID: 1571223421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S1_1_Atk_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 1718
+        height: 660
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0812f607003634cb66cd31b6c8ca69
+      internalID: -96893788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S1_1_Atk_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1320
+        width: 1718
+        height: 660
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd03d70564dd154fb421884a8857ce8
+      internalID: -870099904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S1_1_Atk_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 1320
+        width: 1718
+        height: 660
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad157a39b108696409e2c50064e135d7
+      internalID: -302695193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S1_1_Atk_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 5154
+        y: 1320
+        width: 1718
+        height: 660
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a374c927daca4cb4386ae59d6517f4b6
+      internalID: 1645836998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S1_1_Atk_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 1718
+        height: 660
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7905ae81ccfcca24b9d70a291f74493d
+      internalID: 227581393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S1_1_Atk_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 660
+        width: 1718
+        height: 660
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40177846e9d19bd489805beb1f8dfcfc
+      internalID: -36568573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S1_1_Atk_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 660
+        width: 1718
+        height: 660
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e91a9f93c05c947a98e60e476e92bf
+      internalID: 714654641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S1_1_Atk_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 5154
+        y: 660
+        width: 1718
+        height: 660
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e726a93087ce994ba71cd53e0ab83a9
+      internalID: 1258348141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S1_1_Atk_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1718
+        height: 660
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c44530601c2a6458679aeae985f9c0
+      internalID: 458532475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S1_1_Atk_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 0
+        width: 1718
+        height: 660
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d00b7cb03708f4b983eff72bfcb11c
+      internalID: -2143405899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S1_1_Atk_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 0
+        width: 1718
+        height: 660
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03b6d15461ca2a49a48ada010951d89
+      internalID: -319578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S1_1_Atk_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 5154
+        y: 0
+        width: 1718
+        height: 660
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f09c8408751904883b154c13c0da44
+      internalID: 1601086084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e386b0eb8deeb154983fbde200e6b07b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":5.0},"gridSpriteSize":{"x":1718.0,"y":660.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Fx_S1_1_Atk_sheet_0: -8962080667682775881
+      Fx_S1_1_Atk_sheet_1: -1690875935
+      Fx_S1_1_Atk_sheet_10: -302695193
+      Fx_S1_1_Atk_sheet_11: 1645836998
+      Fx_S1_1_Atk_sheet_12: 227581393
+      Fx_S1_1_Atk_sheet_13: -36568573
+      Fx_S1_1_Atk_sheet_14: 714654641
+      Fx_S1_1_Atk_sheet_15: 1258348141
+      Fx_S1_1_Atk_sheet_16: 458532475
+      Fx_S1_1_Atk_sheet_17: -2143405899
+      Fx_S1_1_Atk_sheet_18: -319578
+      Fx_S1_1_Atk_sheet_19: 1601086084
+      Fx_S1_1_Atk_sheet_2: -1841584935
+      Fx_S1_1_Atk_sheet_3: -1353650547
+      Fx_S1_1_Atk_sheet_4: -446353649
+      Fx_S1_1_Atk_sheet_5: -932612687
+      Fx_S1_1_Atk_sheet_6: 447124458
+      Fx_S1_1_Atk_sheet_7: 1571223421
+      Fx_S1_1_Atk_sheet_8: -96893788
+      Fx_S1_1_Atk_sheet_9: -870099904
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

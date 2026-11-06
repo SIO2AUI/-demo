@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 92b8f5bf7fa0408438014f0f4af38293
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6971694908589298817
+    second: Zwei_Knights_Greatsword_sheet_0
+  - first:
+      213: -8224794952633754285
+    second: Zwei_Knights_Greatsword_sheet_1
+  - first:
+      213: -2849906152924885855
+    second: Zwei_Knights_Greatsword_sheet_2
+  - first:
+      213: -1180468726405768457
+    second: Zwei_Knights_Greatsword_sheet_3
+  - first:
+      213: 5938821773257542490
+    second: Zwei_Knights_Greatsword_sheet_4
+  - first:
+      213: -6276936951548965240
+    second: Zwei_Knights_Greatsword_sheet_5
+  - first:
+      213: 2757107921377248129
+    second: Zwei_Knights_Greatsword_sheet_6
+  - first:
+      213: 3272569934630439425
+    second: Zwei_Knights_Greatsword_sheet_7
+  - first:
+      213: 3129231817153694631
+    second: Zwei_Knights_Greatsword_sheet_8
+  - first:
+      213: 8445662677059572703
+    second: Zwei_Knights_Greatsword_sheet_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zwei_Knights_Greatsword_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 383
+        height: 255
+      alignment: 9
+      pivot: {x: 0.6358653, y: 0.14529383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1845ddce49f60c060800000000000000
+      internalID: 6971694908589298817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwei_Knights_Greatsword_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 255
+        width: 383
+        height: 255
+      alignment: 9
+      pivot: {x: 0.63269746, y: 0.14731349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dd6d14198abdd80800000000000000
+      internalID: -8224794952633754285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwei_Knights_Greatsword_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 255
+        width: 383
+        height: 255
+      alignment: 9
+      pivot: {x: 0.6469379, y: 0.15422052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac46bf04791378d0800000000000000
+      internalID: -2849906152924885855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwei_Knights_Greatsword_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 255
+        width: 383
+        height: 255
+      alignment: 9
+      pivot: {x: 0.6416271, y: 0.15156166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa502e92f12e9fe0800000000000000
+      internalID: -1180468726405768457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwei_Knights_Greatsword_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 255
+        width: 383
+        height: 255
+      alignment: 9
+      pivot: {x: 0.6770335, y: 0.1568795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b0f5300feea6250800000000000000
+      internalID: 5938821773257542490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwei_Knights_Greatsword_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 383
+        height: 255
+      alignment: 9
+      pivot: {x: 0.6503598, y: 0.16406772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e86656917d3e8a0800000000000000
+      internalID: -6276936951548965240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwei_Knights_Greatsword_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1
+        width: 383
+        height: 255
+      alignment: 9
+      pivot: {x: 0.64778954, y: 0.16020748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1834b15fb07334620800000000000000
+      internalID: 2757107921377248129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwei_Knights_Greatsword_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 0
+        width: 383
+        height: 255
+      alignment: 9
+      pivot: {x: 0.62337214, y: 0.15055637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a454844018a6d20800000000000000
+      internalID: 3272569934630439425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwei_Knights_Greatsword_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 0
+        width: 383
+        height: 255
+      alignment: 9
+      pivot: {x: 0.62465703, y: 0.1486261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abcb4122c34d6b20800000000000000
+      internalID: 3129231817153694631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zwei_Knights_Greatsword_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 0
+        width: 383
+        height: 255
+      alignment: 9
+      pivot: {x: 0.63622344, y: 0.15055637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd319ee2575053570800000000000000
+      internalID: 8445662677059572703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fbe466aa7c923c542b8ca1512e3d67d7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":2.0},"gridSpriteSize":{"x":383.0,"y":255.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Zwei_Knights_Greatsword_sheet_0: 6971694908589298817
+      Zwei_Knights_Greatsword_sheet_1: -8224794952633754285
+      Zwei_Knights_Greatsword_sheet_2: -2849906152924885855
+      Zwei_Knights_Greatsword_sheet_3: -1180468726405768457
+      Zwei_Knights_Greatsword_sheet_4: 5938821773257542490
+      Zwei_Knights_Greatsword_sheet_5: -6276936951548965240
+      Zwei_Knights_Greatsword_sheet_6: 2757107921377248129
+      Zwei_Knights_Greatsword_sheet_7: 3272569934630439425
+      Zwei_Knights_Greatsword_sheet_8: 3129231817153694631
+      Zwei_Knights_Greatsword_sheet_9: 8445662677059572703
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

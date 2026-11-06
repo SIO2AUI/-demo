@@ -1,0 +1,1419 @@
+fileFormatVersion: 2
+guid: 9b4a423f87527644096fc394c271b112
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3447647956887463317
+    second: Valenshina_Idle_sheet_0
+  - first:
+      213: 6014298046643280821
+    second: Valenshina_Idle_sheet_1
+  - first:
+      213: 948971549039152122
+    second: Valenshina_Idle_sheet_2
+  - first:
+      213: 519891818877332527
+    second: Valenshina_Idle_sheet_3
+  - first:
+      213: 8088668630225034409
+    second: Valenshina_Idle_sheet_4
+  - first:
+      213: 5848054511043004647
+    second: Valenshina_Idle_sheet_5
+  - first:
+      213: -6621118258932031002
+    second: Valenshina_Idle_sheet_6
+  - first:
+      213: 581368065676320445
+    second: Valenshina_Idle_sheet_7
+  - first:
+      213: -6188019293241775781
+    second: Valenshina_Idle_sheet_8
+  - first:
+      213: -1221647530056861812
+    second: Valenshina_Idle_sheet_9
+  - first:
+      213: 8203583928498820262
+    second: Valenshina_Idle_sheet_10
+  - first:
+      213: -4769938849551463511
+    second: Valenshina_Idle_sheet_11
+  - first:
+      213: -1068626304127283572
+    second: Valenshina_Idle_sheet_12
+  - first:
+      213: 1311261383653432557
+    second: Valenshina_Idle_sheet_13
+  - first:
+      213: 8859502004706820508
+    second: Valenshina_Idle_sheet_14
+  - first:
+      213: 2210760285005482702
+    second: Valenshina_Idle_sheet_15
+  - first:
+      213: 6399566414815095071
+    second: Valenshina_Idle_sheet_16
+  - first:
+      213: 7707460419646923237
+    second: Valenshina_Idle_sheet_17
+  - first:
+      213: 8994038193860180576
+    second: Valenshina_Idle_sheet_18
+  - first:
+      213: 7939774736860011342
+    second: Valenshina_Idle_sheet_19
+  - first:
+      213: 1057097155748183053
+    second: Valenshina_Idle_sheet_20
+  - first:
+      213: 3504544696342031936
+    second: Valenshina_Idle_sheet_21
+  - first:
+      213: 4963014292188440469
+    second: Valenshina_Idle_sheet_22
+  - first:
+      213: 5983937987697924263
+    second: Valenshina_Idle_sheet_23
+  - first:
+      213: 1796012277726263144
+    second: Valenshina_Idle_sheet_24
+  - first:
+      213: -5313417624492634346
+    second: Valenshina_Idle_sheet_25
+  - first:
+      213: 4072750472720641146
+    second: Valenshina_Idle_sheet_26
+  - first:
+      213: -4050573003551332056
+    second: Valenshina_Idle_sheet_27
+  - first:
+      213: -2019711916365585794
+    second: Valenshina_Idle_sheet_28
+  - first:
+      213: -7976868321466690147
+    second: Valenshina_Idle_sheet_29
+  - first:
+      213: 4229661063096970799
+    second: Valenshina_Idle_sheet_30
+  - first:
+      213: -5675155472936653502
+    second: Valenshina_Idle_sheet_31
+  - first:
+      213: 4011979647130520686
+    second: Valenshina_Idle_sheet_32
+  - first:
+      213: 6726667292018082880
+    second: Valenshina_Idle_sheet_33
+  - first:
+      213: -2295919936108242442
+    second: Valenshina_Idle_sheet_34
+  - first:
+      213: -6764112278066971121
+    second: Valenshina_Idle_sheet_35
+  - first:
+      213: -4774121370468591873
+    second: Valenshina_Idle_sheet_36
+  - first:
+      213: -975326812302525929
+    second: Valenshina_Idle_sheet_37
+  - first:
+      213: -7073307103154398899
+    second: Valenshina_Idle_sheet_38
+  - first:
+      213: -4472062736005609216
+    second: Valenshina_Idle_sheet_39
+  - first:
+      213: -458214488255538466
+    second: Valenshina_Idle_sheet_40
+  - first:
+      213: 6834053938517814302
+    second: Valenshina_Idle_sheet_41
+  - first:
+      213: -5086582064598805622
+    second: Valenshina_Idle_sheet_42
+  - first:
+      213: 7732684388009867309
+    second: Valenshina_Idle_sheet_43
+  - first:
+      213: -9012307528637116069
+    second: Valenshina_Idle_sheet_44
+  - first:
+      213: -5791546769619525139
+    second: Valenshina_Idle_sheet_45
+  - first:
+      213: -6247294243162192820
+    second: Valenshina_Idle_sheet_46
+  - first:
+      213: -5865738104892668260
+    second: Valenshina_Idle_sheet_47
+  - first:
+      213: -4706820156483795035
+    second: Valenshina_Idle_sheet_48
+  - first:
+      213: -3933488457316867374
+    second: Valenshina_Idle_sheet_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1724
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595e0e4ec8188df20800000000000000
+      internalID: 3447647956887463317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1724
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb9f735534177350800000000000000
+      internalID: 6014298046643280821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1724
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb4e62989c6b2d00800000000000000
+      internalID: 948971549039152122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1724
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ca0d1dad6073700800000000000000
+      internalID: 519891818877332527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1724
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac986a7349b04070800000000000000
+      internalID: 8088668630225034409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1724
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8c6dde796782150800000000000000
+      internalID: 5848054511043004647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1724
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1e08016001d14a0800000000000000
+      internalID: -6621118258932031002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 1724
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe946eec2f611800800000000000000
+      internalID: 581368065676320445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 1724
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b596f030d3dbf1aa0800000000000000
+      internalID: -6188019293241775781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 1724
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c873a324b06db0fe0800000000000000
+      internalID: -1221647530056861812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1293
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a496475e1cf8d170800000000000000
+      internalID: 8203583928498820262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1293
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab462873e5cdcdb0800000000000000
+      internalID: -4769938849551463511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1293
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ecad8c90a7b21f0800000000000000
+      internalID: -1068626304127283572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1293
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec9954f749823210800000000000000
+      internalID: 1311261383653432557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1293
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c914965322643fa70800000000000000
+      internalID: 8859502004706820508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1293
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca0b4f14c23eae10800000000000000
+      internalID: 2210760285005482702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1293
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19e2977fb3dfc850800000000000000
+      internalID: 6399566414815095071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 1293
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e120717a6666fa60800000000000000
+      internalID: 7707460419646923237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 1293
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06af459b51e31dc70800000000000000
+      internalID: 8994038193860180576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 1293
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b59237e0fbf2e60800000000000000
+      internalID: 7939774736860011342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 862
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c327d23409bae00800000000000000
+      internalID: 1057097155748183053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 862
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e22fc55d4a2a030800000000000000
+      internalID: 3504544696342031936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 862
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597241d143b20e440800000000000000
+      internalID: 4963014292188440469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 862
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a853b245e73b0350800000000000000
+      internalID: 5983937987697924263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 862
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8673d12a6a7bce810800000000000000
+      internalID: 1796012277726263144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 862
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f01dc72d2f246b0800000000000000
+      internalID: -5313417624492634346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 862
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c61510af0558830800000000000000
+      internalID: 4072750472720641146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 862
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829298a605979c7c0800000000000000
+      internalID: -4050573003551332056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 862
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72e76486ba88f3e0800000000000000
+      internalID: -2019711916365585794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 862
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9559ee56887c4190800000000000000
+      internalID: -7976868321466690147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e2232c356c2ba30800000000000000
+      internalID: 4229661063096970799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 431
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d2f766a2ccd31b0800000000000000
+      internalID: -5675155472936653502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 431
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ccf419b3a6da730800000000000000
+      internalID: 4011979647130520686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 431
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0440afe334ce95d50800000000000000
+      internalID: 6726667292018082880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 431
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9d78f7bf04320e0800000000000000
+      internalID: -2295919936108242442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 431
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0eb5fc88bb0122a0800000000000000
+      internalID: -6764112278066971121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 431
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff65e9e68e9eebdb0800000000000000
+      internalID: -4774121370468591873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 431
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a3bc48e61f672f0800000000000000
+      internalID: -975326812302525929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 431
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d491c396aa096dd90800000000000000
+      internalID: -7073307103154398899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 431
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009cf17b2aa00f1c0800000000000000
+      internalID: -4472062736005609216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda5794c95814a9f0800000000000000
+      internalID: -458214488255538466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ca63549df67de50800000000000000
+      internalID: 6834053938517814302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 0
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8317b6ef84d869b0800000000000000
+      internalID: -5086582064598805622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28798b3b73005b60800000000000000
+      internalID: 7732684388009867309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 0
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51910d4d0adde280800000000000000
+      internalID: -9012307528637116069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 0
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de164c0e5ea40afa0800000000000000
+      internalID: -5791546769619525139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 0
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4489f44cf62d49a0800000000000000
+      internalID: -6247294243162192820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 0
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9646688546b89ea0800000000000000
+      internalID: -5865738104892668260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 0
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7822761040eaeb0800000000000000
+      internalID: -4706820156483795035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_Idle_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 0
+        width: 332
+        height: 431
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2678da6117969c0800000000000000
+      internalID: -3933488457316867374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a82b0269a9e29034f8d860b746d98a3e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":10.0,"y":5.0},"gridSpriteSize":{"x":332.0,"y":431.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Valenshina_Idle_sheet_0: 3447647956887463317
+      Valenshina_Idle_sheet_1: 6014298046643280821
+      Valenshina_Idle_sheet_10: 8203583928498820262
+      Valenshina_Idle_sheet_11: -4769938849551463511
+      Valenshina_Idle_sheet_12: -1068626304127283572
+      Valenshina_Idle_sheet_13: 1311261383653432557
+      Valenshina_Idle_sheet_14: 8859502004706820508
+      Valenshina_Idle_sheet_15: 2210760285005482702
+      Valenshina_Idle_sheet_16: 6399566414815095071
+      Valenshina_Idle_sheet_17: 7707460419646923237
+      Valenshina_Idle_sheet_18: 8994038193860180576
+      Valenshina_Idle_sheet_19: 7939774736860011342
+      Valenshina_Idle_sheet_2: 948971549039152122
+      Valenshina_Idle_sheet_20: 1057097155748183053
+      Valenshina_Idle_sheet_21: 3504544696342031936
+      Valenshina_Idle_sheet_22: 4963014292188440469
+      Valenshina_Idle_sheet_23: 5983937987697924263
+      Valenshina_Idle_sheet_24: 1796012277726263144
+      Valenshina_Idle_sheet_25: -5313417624492634346
+      Valenshina_Idle_sheet_26: 4072750472720641146
+      Valenshina_Idle_sheet_27: -4050573003551332056
+      Valenshina_Idle_sheet_28: -2019711916365585794
+      Valenshina_Idle_sheet_29: -7976868321466690147
+      Valenshina_Idle_sheet_3: 519891818877332527
+      Valenshina_Idle_sheet_30: 4229661063096970799
+      Valenshina_Idle_sheet_31: -5675155472936653502
+      Valenshina_Idle_sheet_32: 4011979647130520686
+      Valenshina_Idle_sheet_33: 6726667292018082880
+      Valenshina_Idle_sheet_34: -2295919936108242442
+      Valenshina_Idle_sheet_35: -6764112278066971121
+      Valenshina_Idle_sheet_36: -4774121370468591873
+      Valenshina_Idle_sheet_37: -975326812302525929
+      Valenshina_Idle_sheet_38: -7073307103154398899
+      Valenshina_Idle_sheet_39: -4472062736005609216
+      Valenshina_Idle_sheet_4: 8088668630225034409
+      Valenshina_Idle_sheet_40: -458214488255538466
+      Valenshina_Idle_sheet_41: 6834053938517814302
+      Valenshina_Idle_sheet_42: -5086582064598805622
+      Valenshina_Idle_sheet_43: 7732684388009867309
+      Valenshina_Idle_sheet_44: -9012307528637116069
+      Valenshina_Idle_sheet_45: -5791546769619525139
+      Valenshina_Idle_sheet_46: -6247294243162192820
+      Valenshina_Idle_sheet_47: -5865738104892668260
+      Valenshina_Idle_sheet_48: -4706820156483795035
+      Valenshina_Idle_sheet_49: -3933488457316867374
+      Valenshina_Idle_sheet_5: 5848054511043004647
+      Valenshina_Idle_sheet_6: -6621118258932031002
+      Valenshina_Idle_sheet_7: 581368065676320445
+      Valenshina_Idle_sheet_8: -6188019293241775781
+      Valenshina_Idle_sheet_9: -1221647530056861812
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

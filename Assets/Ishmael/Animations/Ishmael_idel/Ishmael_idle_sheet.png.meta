@@ -1,0 +1,1861 @@
+fileFormatVersion: 2
+guid: 7c3bc6e60bf6d544b97cb61b69a994ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6932817274981770082
+    second: Ishmael_idle_sheet_0
+  - first:
+      213: -2715451518900207232
+    second: Ishmael_idle_sheet_1
+  - first:
+      213: 8752888819783260516
+    second: Ishmael_idle_sheet_2
+  - first:
+      213: -2481039257088416715
+    second: Ishmael_idle_sheet_3
+  - first:
+      213: 6904717855058384685
+    second: Ishmael_idle_sheet_4
+  - first:
+      213: -4423375258926254091
+    second: Ishmael_idle_sheet_5
+  - first:
+      213: -5855280267293336429
+    second: Ishmael_idle_sheet_6
+  - first:
+      213: -5862308923234059716
+    second: Ishmael_idle_sheet_7
+  - first:
+      213: -3280010146166219410
+    second: Ishmael_idle_sheet_8
+  - first:
+      213: -3654093211203066391
+    second: Ishmael_idle_sheet_9
+  - first:
+      213: -963876350593389660
+    second: Ishmael_idle_sheet_10
+  - first:
+      213: 8777386106187920521
+    second: Ishmael_idle_sheet_11
+  - first:
+      213: -5693424661608774420
+    second: Ishmael_idle_sheet_12
+  - first:
+      213: -5892614098656903632
+    second: Ishmael_idle_sheet_13
+  - first:
+      213: -3007605200690503877
+    second: Ishmael_idle_sheet_14
+  - first:
+      213: -5421837160427125396
+    second: Ishmael_idle_sheet_15
+  - first:
+      213: -1988685901047885253
+    second: Ishmael_idle_sheet_16
+  - first:
+      213: 5422669988095407669
+    second: Ishmael_idle_sheet_17
+  - first:
+      213: -550418887736063910
+    second: Ishmael_idle_sheet_18
+  - first:
+      213: 8151102690751440675
+    second: Ishmael_idle_sheet_19
+  - first:
+      213: 3075845721630366204
+    second: Ishmael_idle_sheet_20
+  - first:
+      213: -4310341984244287911
+    second: Ishmael_idle_sheet_21
+  - first:
+      213: -4708060195388327422
+    second: Ishmael_idle_sheet_22
+  - first:
+      213: 5036573808686900497
+    second: Ishmael_idle_sheet_23
+  - first:
+      213: -2883989067749034301
+    second: Ishmael_idle_sheet_24
+  - first:
+      213: -3503980282061702065
+    second: Ishmael_idle_sheet_25
+  - first:
+      213: 3591581129374222088
+    second: Ishmael_idle_sheet_26
+  - first:
+      213: 938576490431143399
+    second: Ishmael_idle_sheet_27
+  - first:
+      213: -7790684946032056685
+    second: Ishmael_idle_sheet_28
+  - first:
+      213: 9194451962311124208
+    second: Ishmael_idle_sheet_29
+  - first:
+      213: -2903661208959548905
+    second: Ishmael_idle_sheet_30
+  - first:
+      213: -4240880085146568117
+    second: Ishmael_idle_sheet_31
+  - first:
+      213: 7148419610504167535
+    second: Ishmael_idle_sheet_32
+  - first:
+      213: 8152749996385033750
+    second: Ishmael_idle_sheet_33
+  - first:
+      213: -7043782540589215795
+    second: Ishmael_idle_sheet_34
+  - first:
+      213: -5395160743996046498
+    second: Ishmael_idle_sheet_35
+  - first:
+      213: 4233991205705927975
+    second: Ishmael_idle_sheet_36
+  - first:
+      213: 7523037971414377549
+    second: Ishmael_idle_sheet_37
+  - first:
+      213: 7897852855090273122
+    second: Ishmael_idle_sheet_38
+  - first:
+      213: -2374885431939724771
+    second: Ishmael_idle_sheet_39
+  - first:
+      213: 5609219833652793822
+    second: Ishmael_idle_sheet_40
+  - first:
+      213: 3084661058225730592
+    second: Ishmael_idle_sheet_41
+  - first:
+      213: 4542692795483479664
+    second: Ishmael_idle_sheet_42
+  - first:
+      213: 5049025371528361724
+    second: Ishmael_idle_sheet_43
+  - first:
+      213: 5466984536277653892
+    second: Ishmael_idle_sheet_44
+  - first:
+      213: -4320593531534256550
+    second: Ishmael_idle_sheet_45
+  - first:
+      213: 6221243776023016398
+    second: Ishmael_idle_sheet_46
+  - first:
+      213: 6165491969961399019
+    second: Ishmael_idle_sheet_47
+  - first:
+      213: -6339404904504239468
+    second: Ishmael_idle_sheet_48
+  - first:
+      213: 7730220022714502137
+    second: Ishmael_idle_sheet_49
+  - first:
+      213: 1851354427991129022
+    second: Ishmael_idle_sheet_50
+  - first:
+      213: -6065053609908215747
+    second: Ishmael_idle_sheet_51
+  - first:
+      213: -3779204524757886769
+    second: Ishmael_idle_sheet_52
+  - first:
+      213: 189934445784027270
+    second: Ishmael_idle_sheet_53
+  - first:
+      213: 8732986767509419929
+    second: Ishmael_idle_sheet_54
+  - first:
+      213: 8336093864490185037
+    second: Ishmael_idle_sheet_55
+  - first:
+      213: 1917613184532973390
+    second: Ishmael_idle_sheet_56
+  - first:
+      213: 8624819138997831322
+    second: Ishmael_idle_sheet_57
+  - first:
+      213: -7894615319895939060
+    second: Ishmael_idle_sheet_58
+  - first:
+      213: -3409263884420259758
+    second: Ishmael_idle_sheet_59
+  - first:
+      213: -7781008707914669404
+    second: Ishmael_idle_sheet_60
+  - first:
+      213: 3999449450793946770
+    second: Ishmael_idle_sheet_61
+  - first:
+      213: 4519381712621964969
+    second: Ishmael_idle_sheet_62
+  - first:
+      213: 1595343433088642647
+    second: Ishmael_idle_sheet_63
+  - first:
+      213: -4494618771348152934
+    second: Ishmael_idle_sheet_64
+  - first:
+      213: -8622483038347948913
+    second: Ishmael_idle_sheet_65
+  - first:
+      213: -3247035284586876901
+    second: Ishmael_idle_sheet_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2594
+        width: 283
+        height: 428
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c15088b6fa9cf90800000000000000
+      internalID: -6932817274981770082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2594
+        width: 282
+        height: 428
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081882b0b37c05ad0800000000000000
+      internalID: -2715451518900207232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2594
+        width: 282
+        height: 428
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4695badb102887970800000000000000
+      internalID: 8752888819783260516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2594
+        width: 282
+        height: 428
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5342277d0f3919dd0800000000000000
+      internalID: -2481039257088416715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 2594
+        width: 282
+        height: 428
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d275d017e4c72df50800000000000000
+      internalID: 6904717855058384685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 2594
+        width: 281
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7f27753a30d92c0800000000000000
+      internalID: -4423375258926254091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 2594
+        width: 281
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c50a79e9dddbea0800000000000000
+      internalID: -5855280267293336429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 2594
+        width: 281
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3af70b1815e4aea0800000000000000
+      internalID: -5862308923234059716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 2594
+        width: 281
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6dd51a76201b72d0800000000000000
+      internalID: -3280010146166219410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 2594
+        width: 280
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5231aa59d0a4dc0800000000000000
+      internalID: -3654093211203066391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2162
+        width: 280
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab2b73e09f9f92f0800000000000000
+      internalID: -963876350593389660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2162
+        width: 280
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984b7c3b82a8fc970800000000000000
+      internalID: 8777386106187920521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2162
+        width: 280
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce44c517f64ecf0b0800000000000000
+      internalID: -5693424661608774420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2162
+        width: 280
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03eb81b92ba393ea0800000000000000
+      internalID: -5892614098656903632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 2162
+        width: 280
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f99344107d246d0800000000000000
+      internalID: -3007605200690503877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 2162
+        width: 280
+        height: 426
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c658ab624d3c1c4b0800000000000000
+      internalID: -5421837160427125396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 2162
+        width: 280
+        height: 426
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b329632a5b4c664e0800000000000000
+      internalID: -1988685901047885253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 2162
+        width: 280
+        height: 426
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5363996af91314b40800000000000000
+      internalID: 5422669988095407669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 2162
+        width: 281
+        height: 426
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5883d610f48c58f0800000000000000
+      internalID: -550418887736063910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 2162
+        width: 281
+        height: 426
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32768f9f5b88e1170800000000000000
+      internalID: 8151102690751440675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1730
+        width: 281
+        height: 426
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9dea523699faa20800000000000000
+      internalID: 3075845721630366204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1730
+        width: 281
+        height: 426
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956baa07dc69e24c0800000000000000
+      internalID: -4310341984244287911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1730
+        width: 281
+        height: 426
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20af8b8523c99aeb0800000000000000
+      internalID: -4708060195388327422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1730
+        width: 282
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115a1dfa13185e540800000000000000
+      internalID: 5036573808686900497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1730
+        width: 282
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c675b019330af7d0800000000000000
+      internalID: -2883989067749034301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1730
+        width: 282
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c3db39f7c5f5fc0800000000000000
+      internalID: -3503980282061702065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 1730
+        width: 282
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807c856120cd7d130800000000000000
+      internalID: 3591581129374222088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 1730
+        width: 283
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed5ea2685e760d00800000000000000
+      internalID: 938576490431143399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 1730
+        width: 283
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396a6c2815de1e390800000000000000
+      internalID: -7790684946032056685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1730
+        width: 283
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4a2fd6851499f70800000000000000
+      internalID: 9194451962311124208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1298
+        width: 284
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71282e3c38f14b7d0800000000000000
+      internalID: -2903661208959548905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1298
+        width: 284
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a7fcd180e5525c0800000000000000
+      internalID: -4240880085146568117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1298
+        width: 285
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60898503c9443360800000000000000
+      internalID: 7148419610504167535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1298
+        width: 285
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ed8153de2642170800000000000000
+      internalID: 8152749996385033750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1298
+        width: 285
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfc41159157f3e90800000000000000
+      internalID: -7043782540589215795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1298
+        width: 285
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53cbfb53e98025b0800000000000000
+      internalID: -5395160743996046498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 1298
+        width: 286
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dca36a19822ca30800000000000000
+      internalID: 4233991205705927975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1298
+        width: 286
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44eded1d23376860800000000000000
+      internalID: 7523037971414377549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 1298
+        width: 286
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bd5fbb35fca9d60800000000000000
+      internalID: 7897852855090273122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 1298
+        width: 286
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a8bf64846ba0fd0800000000000000
+      internalID: -2374885431939724771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 866
+        width: 286
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed153f348b3f7dd40800000000000000
+      internalID: 5609219833652793822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 866
+        width: 287
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0247604a3eaeeca20800000000000000
+      internalID: 3084661058225730592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 866
+        width: 287
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ed48e7703ea0f30800000000000000
+      internalID: 4542692795483479664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 866
+        width: 287
+        height: 425
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6f1e313ddb11640800000000000000
+      internalID: 5049025371528361724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 866
+        width: 287
+        height: 426
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489126d6871aedb40800000000000000
+      internalID: 5466984536277653892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 866
+        width: 287
+        height: 426
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56dc06131b2a04c0800000000000000
+      internalID: -4320593531534256550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 866
+        width: 287
+        height: 426
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec336f2b04c465650800000000000000
+      internalID: 6221243776023016398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 866
+        width: 287
+        height: 426
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2921fc74a309550800000000000000
+      internalID: 6165491969961399019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 866
+        width: 287
+        height: 426
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ad7a3b3d8e508a0800000000000000
+      internalID: -6339404904504239468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 866
+        width: 287
+        height: 426
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb82897722474b60800000000000000
+      internalID: 7730220022714502137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 434
+        width: 287
+        height: 426
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbf1c91b0551b910800000000000000
+      internalID: 1851354427991129022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 434
+        width: 287
+        height: 426
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3068b530e994dba0800000000000000
+      internalID: -6065053609908215747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 434
+        width: 287
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8d14002819d8bc0800000000000000
+      internalID: -3779204524757886769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 434
+        width: 287
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68051934f58c2a200800000000000000
+      internalID: 189934445784027270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 434
+        width: 287
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997f599123dc13970800000000000000
+      internalID: 8732986767509419929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 434
+        width: 287
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4130470431cfa370800000000000000
+      internalID: 8336093864490185037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 434
+        width: 287
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4781b8080bbc9a10800000000000000
+      internalID: 1917613184532973390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 434
+        width: 286
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96c4f78f4381b770800000000000000
+      internalID: 8624819138997831322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 434
+        width: 286
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08ee3ba131b07290800000000000000
+      internalID: -7894615319895939060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 434
+        width: 286
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250ef876f8cdfa0d0800000000000000
+      internalID: -3409263884420259758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 286
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a266824ecd440490800000000000000
+      internalID: -7781008707914669404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2
+        width: 285
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e44b3e516e08730800000000000000
+      internalID: 3999449450793946770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 2
+        width: 285
+        height: 427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae8a3119b118be30800000000000000
+      internalID: 4519381712621964969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 2
+        width: 284
+        height: 428
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e2000666cc32610800000000000000
+      internalID: 1595343433088642647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 2
+        width: 284
+        height: 428
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d9dfc7a08ef91c0800000000000000
+      internalID: -4494618771348152934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 2
+        width: 284
+        height: 428
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c80794c59c65880800000000000000
+      internalID: -8622483038347948913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ishmael_idle_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 2
+        width: 283
+        height: 428
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b103a09bc9630f2d0800000000000000
+      internalID: -3247035284586876901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2513944fcf5ffef49a4ca67090ac7d4d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Ishmael_idle_sheet_0: -6932817274981770082
+      Ishmael_idle_sheet_1: -2715451518900207232
+      Ishmael_idle_sheet_10: -963876350593389660
+      Ishmael_idle_sheet_11: 8777386106187920521
+      Ishmael_idle_sheet_12: -5693424661608774420
+      Ishmael_idle_sheet_13: -5892614098656903632
+      Ishmael_idle_sheet_14: -3007605200690503877
+      Ishmael_idle_sheet_15: -5421837160427125396
+      Ishmael_idle_sheet_16: -1988685901047885253
+      Ishmael_idle_sheet_17: 5422669988095407669
+      Ishmael_idle_sheet_18: -550418887736063910
+      Ishmael_idle_sheet_19: 8151102690751440675
+      Ishmael_idle_sheet_2: 8752888819783260516
+      Ishmael_idle_sheet_20: 3075845721630366204
+      Ishmael_idle_sheet_21: -4310341984244287911
+      Ishmael_idle_sheet_22: -4708060195388327422
+      Ishmael_idle_sheet_23: 5036573808686900497
+      Ishmael_idle_sheet_24: -2883989067749034301
+      Ishmael_idle_sheet_25: -3503980282061702065
+      Ishmael_idle_sheet_26: 3591581129374222088
+      Ishmael_idle_sheet_27: 938576490431143399
+      Ishmael_idle_sheet_28: -7790684946032056685
+      Ishmael_idle_sheet_29: 9194451962311124208
+      Ishmael_idle_sheet_3: -2481039257088416715
+      Ishmael_idle_sheet_30: -2903661208959548905
+      Ishmael_idle_sheet_31: -4240880085146568117
+      Ishmael_idle_sheet_32: 7148419610504167535
+      Ishmael_idle_sheet_33: 8152749996385033750
+      Ishmael_idle_sheet_34: -7043782540589215795
+      Ishmael_idle_sheet_35: -5395160743996046498
+      Ishmael_idle_sheet_36: 4233991205705927975
+      Ishmael_idle_sheet_37: 7523037971414377549
+      Ishmael_idle_sheet_38: 7897852855090273122
+      Ishmael_idle_sheet_39: -2374885431939724771
+      Ishmael_idle_sheet_4: 6904717855058384685
+      Ishmael_idle_sheet_40: 5609219833652793822
+      Ishmael_idle_sheet_41: 3084661058225730592
+      Ishmael_idle_sheet_42: 4542692795483479664
+      Ishmael_idle_sheet_43: 5049025371528361724
+      Ishmael_idle_sheet_44: 5466984536277653892
+      Ishmael_idle_sheet_45: -4320593531534256550
+      Ishmael_idle_sheet_46: 6221243776023016398
+      Ishmael_idle_sheet_47: 6165491969961399019
+      Ishmael_idle_sheet_48: -6339404904504239468
+      Ishmael_idle_sheet_49: 7730220022714502137
+      Ishmael_idle_sheet_5: -4423375258926254091
+      Ishmael_idle_sheet_50: 1851354427991129022
+      Ishmael_idle_sheet_51: -6065053609908215747
+      Ishmael_idle_sheet_52: -3779204524757886769
+      Ishmael_idle_sheet_53: 189934445784027270
+      Ishmael_idle_sheet_54: 8732986767509419929
+      Ishmael_idle_sheet_55: 8336093864490185037
+      Ishmael_idle_sheet_56: 1917613184532973390
+      Ishmael_idle_sheet_57: 8624819138997831322
+      Ishmael_idle_sheet_58: -7894615319895939060
+      Ishmael_idle_sheet_59: -3409263884420259758
+      Ishmael_idle_sheet_6: -5855280267293336429
+      Ishmael_idle_sheet_60: -7781008707914669404
+      Ishmael_idle_sheet_61: 3999449450793946770
+      Ishmael_idle_sheet_62: 4519381712621964969
+      Ishmael_idle_sheet_63: 1595343433088642647
+      Ishmael_idle_sheet_64: -4494618771348152934
+      Ishmael_idle_sheet_65: -8622483038347948913
+      Ishmael_idle_sheet_66: -3247035284586876901
+      Ishmael_idle_sheet_7: -5862308923234059716
+      Ishmael_idle_sheet_8: -3280010146166219410
+      Ishmael_idle_sheet_9: -3654093211203066391
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
