@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 70e7c58da0d94314abe5ef0bd20109e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1597416415308537013
+    second: 10810_Skill2_CantLetYouThrough_sheet_0
+  - first:
+      213: -835865377813928588
+    second: 10810_Skill2_CantLetYouThrough_sheet_1
+  - first:
+      213: -2339931898031625823
+    second: 10810_Skill2_CantLetYouThrough_sheet_2
+  - first:
+      213: 7763137317588682910
+    second: 10810_Skill2_CantLetYouThrough_sheet_3
+  - first:
+      213: 2241291242132686429
+    second: 10810_Skill2_CantLetYouThrough_sheet_4
+  - first:
+      213: 7189626767489115918
+    second: 10810_Skill2_CantLetYouThrough_sheet_5
+  - first:
+      213: 4414656514180284205
+    second: 10810_Skill2_CantLetYouThrough_sheet_6
+  - first:
+      213: 2499108868649783166
+    second: 10810_Skill2_CantLetYouThrough_sheet_7
+  - first:
+      213: -4197144364448798441
+    second: 10810_Skill2_CantLetYouThrough_sheet_8
+  - first:
+      213: -6091092391494978312
+    second: 10810_Skill2_CantLetYouThrough_sheet_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 115
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 10810_Skill2_CantLetYouThrough_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 526
+        height: 268
+      alignment: 9
+      pivot: {x: 0.46949834, y: 0.14694192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcd7d824c92b2610800000000000000
+      internalID: 1597416415308537013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10810_Skill2_CantLetYouThrough_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 268
+        width: 526
+        height: 268
+      alignment: 9
+      pivot: {x: 0.45563406, y: 0.14149942}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4756a531ed86664f0800000000000000
+      internalID: -835865377813928588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10810_Skill2_CantLetYouThrough_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 268
+        width: 526
+        height: 268
+      alignment: 9
+      pivot: {x: 0.47504428, y: 0.1687113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a928331654e68fd0800000000000000
+      internalID: -2339931898031625823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10810_Skill2_CantLetYouThrough_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 268
+        width: 526
+        height: 268
+      alignment: 9
+      pivot: {x: 0.4611798, y: 0.15782666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98c37d62443cbb60800000000000000
+      internalID: 7763137317588682910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10810_Skill2_CantLetYouThrough_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 268
+        width: 526
+        height: 268
+      alignment: 9
+      pivot: {x: 0.47504428, y: 0.15782666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d564385828aaa1f10800000000000000
+      internalID: 2241291242132686429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10810_Skill2_CantLetYouThrough_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 526
+        height: 268
+      alignment: 9
+      pivot: {x: 0.45008817, y: 0.108845636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0724d7e37fa6c360800000000000000
+      internalID: 7189626767489115918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10810_Skill2_CantLetYouThrough_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 0
+        width: 526
+        height: 268
+      alignment: 9
+      pivot: {x: 0.43622395, y: 0.15238412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f7415b5b2044d30800000000000000
+      internalID: 4414656514180284205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10810_Skill2_CantLetYouThrough_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 0
+        width: 526
+        height: 268
+      alignment: 9
+      pivot: {x: 0.47227147, y: 0.15782608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f06e2764e9ea220800000000000000
+      internalID: 2499108868649783166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10810_Skill2_CantLetYouThrough_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 0
+        width: 526
+        height: 268
+      alignment: 9
+      pivot: {x: 0.4528616, y: 0.15238436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7192ffd107fb0c5c0800000000000000
+      internalID: -4197144364448798441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10810_Skill2_CantLetYouThrough_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 0
+        width: 526
+        height: 268
+      alignment: 9
+      pivot: {x: 0.44731575, y: 0.11973056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f47bdeedb7187ba0800000000000000
+      internalID: -6091092391494978312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f151329de6dc72e4cb43faf96f7c49ce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":2.0},"gridSpriteSize":{"x":526.0,"y":268.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      10810_Skill2_CantLetYouThrough_sheet_0: 1597416415308537013
+      10810_Skill2_CantLetYouThrough_sheet_1: -835865377813928588
+      10810_Skill2_CantLetYouThrough_sheet_2: -2339931898031625823
+      10810_Skill2_CantLetYouThrough_sheet_3: 7763137317588682910
+      10810_Skill2_CantLetYouThrough_sheet_4: 2241291242132686429
+      10810_Skill2_CantLetYouThrough_sheet_5: 7189626767489115918
+      10810_Skill2_CantLetYouThrough_sheet_6: 4414656514180284205
+      10810_Skill2_CantLetYouThrough_sheet_7: 2499108868649783166
+      10810_Skill2_CantLetYouThrough_sheet_8: -4197144364448798441
+      10810_Skill2_CantLetYouThrough_sheet_9: -6091092391494978312
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

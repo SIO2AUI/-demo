@@ -65,6 +65,16 @@
                     "interactions": "",
                     "initialStateCheck": false,
                     "priority": 0
+                },
+                {
+                    "name": "Player_2_Dush",
+                    "type": "Button",
+                    "id": "85d8ad45-53be-45db-a70a-62b8af4cf6b9",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
                 }
             ],
             "bindings": [
@@ -252,6 +262,17 @@
                     "processors": "",
                     "groups": ";Keyboard&Mouse",
                     "action": "Player_2_Attack",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "151b649c-09a1-4594-96e9-9e3cce37a8be",
+                    "path": "<Keyboard>/rightShift",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Keyboard&Mouse",
+                    "action": "Player_2_Dush",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

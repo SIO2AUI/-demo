@@ -151,6 +151,16 @@ public partial class @InputSystem_Actions: IInputActionCollection2, IDisposable
                     ""interactions"": """",
                     ""initialStateCheck"": false,
                     ""priority"": 0
+                },
+                {
+                    ""name"": ""Player_2_Dush"",
+                    ""type"": ""Button"",
+                    ""id"": ""85d8ad45-53be-45db-a70a-62b8af4cf6b9"",
+                    ""expectedControlType"": """",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false,
+                    ""priority"": 0
                 }
             ],
             ""bindings"": [
@@ -338,6 +348,17 @@ public partial class @InputSystem_Actions: IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""groups"": "";Keyboard&Mouse"",
                     ""action"": ""Player_2_Attack"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""151b649c-09a1-4594-96e9-9e3cce37a8be"",
+                    ""path"": ""<Keyboard>/rightShift"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": "";Keyboard&Mouse"",
+                    ""action"": ""Player_2_Dush"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 }
@@ -941,6 +962,7 @@ public partial class @InputSystem_Actions: IInputActionCollection2, IDisposable
         m_Gameplay_Player_2_Move = m_Gameplay.FindAction("Player_2_Move", throwIfNotFound: true);
         m_Gameplay_Player_2_Jump = m_Gameplay.FindAction("Player_2_Jump", throwIfNotFound: true);
         m_Gameplay_Player_2_Attack = m_Gameplay.FindAction("Player_2_Attack", throwIfNotFound: true);
+        m_Gameplay_Player_2_Dush = m_Gameplay.FindAction("Player_2_Dush", throwIfNotFound: true);
         // UI
         m_UI = asset.FindActionMap("UI", throwIfNotFound: true);
         m_UI_Navigate = m_UI.FindAction("Navigate", throwIfNotFound: true);
@@ -1040,6 +1062,7 @@ public partial class @InputSystem_Actions: IInputActionCollection2, IDisposable
     private readonly InputAction m_Gameplay_Player_2_Move;
     private readonly InputAction m_Gameplay_Player_2_Jump;
     private readonly InputAction m_Gameplay_Player_2_Attack;
+    private readonly InputAction m_Gameplay_Player_2_Dush;
     /// <summary>
     /// Provides access to input actions defined in input action map "Gameplay".
     /// </summary>
@@ -1075,6 +1098,10 @@ public partial class @InputSystem_Actions: IInputActionCollection2, IDisposable
         /// Provides access to the underlying input action "Gameplay/Player_2_Attack".
         /// </summary>
         public InputAction @Player_2_Attack => m_Wrapper.m_Gameplay_Player_2_Attack;
+        /// <summary>
+        /// Provides access to the underlying input action "Gameplay/Player_2_Dush".
+        /// </summary>
+        public InputAction @Player_2_Dush => m_Wrapper.m_Gameplay_Player_2_Dush;
         /// <summary>
         /// Provides access to the underlying input action map instance.
         /// </summary>
@@ -1119,6 +1146,9 @@ public partial class @InputSystem_Actions: IInputActionCollection2, IDisposable
             @Player_2_Attack.started += instance.OnPlayer_2_Attack;
             @Player_2_Attack.performed += instance.OnPlayer_2_Attack;
             @Player_2_Attack.canceled += instance.OnPlayer_2_Attack;
+            @Player_2_Dush.started += instance.OnPlayer_2_Dush;
+            @Player_2_Dush.performed += instance.OnPlayer_2_Dush;
+            @Player_2_Dush.canceled += instance.OnPlayer_2_Dush;
         }
 
         /// <summary>
@@ -1148,6 +1178,9 @@ public partial class @InputSystem_Actions: IInputActionCollection2, IDisposable
             @Player_2_Attack.started -= instance.OnPlayer_2_Attack;
             @Player_2_Attack.performed -= instance.OnPlayer_2_Attack;
             @Player_2_Attack.canceled -= instance.OnPlayer_2_Attack;
+            @Player_2_Dush.started -= instance.OnPlayer_2_Dush;
+            @Player_2_Dush.performed -= instance.OnPlayer_2_Dush;
+            @Player_2_Dush.canceled -= instance.OnPlayer_2_Dush;
         }
 
         /// <summary>
@@ -1490,6 +1523,13 @@ public partial class @InputSystem_Actions: IInputActionCollection2, IDisposable
         /// <seealso cref="UnityEngine.InputSystem.InputAction.performed" />
         /// <seealso cref="UnityEngine.InputSystem.InputAction.canceled" />
         void OnPlayer_2_Attack(InputAction.CallbackContext context);
+        /// <summary>
+        /// Method invoked when associated input action "Player_2_Dush" is either <see cref="UnityEngine.InputSystem.InputAction.started" />, <see cref="UnityEngine.InputSystem.InputAction.performed" /> or <see cref="UnityEngine.InputSystem.InputAction.canceled" />.
+        /// </summary>
+        /// <seealso cref="UnityEngine.InputSystem.InputAction.started" />
+        /// <seealso cref="UnityEngine.InputSystem.InputAction.performed" />
+        /// <seealso cref="UnityEngine.InputSystem.InputAction.canceled" />
+        void OnPlayer_2_Dush(InputAction.CallbackContext context);
     }
     /// <summary>
     /// Interface to implement callback methods for all input action callbacks associated with input actions defined by "UI" which allows adding and removing callbacks.

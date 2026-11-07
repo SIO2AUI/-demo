@@ -1,11 +1,13 @@
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.UI;
 
 public class Character : MonoBehaviour
 {
     [Header("基本属性")]
     public float maxHealth;
     public float currentHealth;
+    public float percentageHealth;
     [Header("受伤后无敌")]
     public float invulnerableDuration=0f;
     public float invulnerableCounter;
@@ -18,6 +20,7 @@ public class Character : MonoBehaviour
     }
     void Update()
     {
+        percentageHealth = currentHealth / maxHealth;
         if (invulnerable)
         {
             invulnerableCounter -= Time.deltaTime;
@@ -37,7 +40,8 @@ public class Character : MonoBehaviour
         {
             currentHealth -= attacker.damage;
             TriggerInvulnerable();
-            OnTakeDamage?.Invoke(attacker.transform); 
+            OnTakeDamage?.Invoke(attacker.transform);
+            percentageHealth= currentHealth / maxHealth;
         }
         else
         {
@@ -45,6 +49,7 @@ public class Character : MonoBehaviour
             OnDie?.Invoke();
         }
     }
+
     private void TriggerInvulnerable()
     {
         invulnerable = true;

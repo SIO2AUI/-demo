@@ -1,0 +1,628 @@
+fileFormatVersion: 2
+guid: b046041a1febee84499f2c613203de12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4273939870741601541
+    second: Valenshina_DaoGuang_sheet_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 170
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Valenshina_DaoGuang_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2660
+        width: 1870
+        height: 532
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d9eea0ba5105b30800000000000000
+      internalID: 4273939870741601541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_DaoGuang_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 2660
+        width: 1870
+        height: 532
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5181bf387f523d64a850b059718481a9
+      internalID: 627540035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_DaoGuang_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 2660
+        width: 1870
+        height: 532
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79db61d5e8ed64447ab8ce81544457e8
+      internalID: 1237174219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_DaoGuang_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 5610
+        y: 2660
+        width: 1870
+        height: 532
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7569634599e87db43a0d60b361bbe406
+      internalID: 222201795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_DaoGuang_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2128
+        width: 1870
+        height: 532
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2115df5910717e4890b63aa4faa12f9
+      internalID: -1532519727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_DaoGuang_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 2128
+        width: 1870
+        height: 532
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3302e4c56738fd4a80baabfc189426d
+      internalID: -54002667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_DaoGuang_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 2128
+        width: 1870
+        height: 532
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67ed712031b9fb45877695e9d9cb9ae
+      internalID: -1688409927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_DaoGuang_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 5610
+        y: 2128
+        width: 1870
+        height: 532
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ba67f591f0bf64c872f55fd21cadbc
+      internalID: 1371099876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_DaoGuang_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1596
+        width: 1870
+        height: 532
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6725bc36c1da8454192ed005bbb3d5f7
+      internalID: -1605044524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_DaoGuang_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1596
+        width: 1870
+        height: 532
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8954b7eeb622cd468589a4abc5d3893
+      internalID: 2336605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_DaoGuang_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 1596
+        width: 1870
+        height: 532
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e22d385ef198e4b931a76de8f486b9
+      internalID: 130109107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_DaoGuang_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 5610
+        y: 1596
+        width: 1870
+        height: 532
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275b0f544b149774e988198f862e0f38
+      internalID: 7605744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_DaoGuang_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1064
+        width: 1870
+        height: 532
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc55ba86c59d0d24da129f4e5360f641
+      internalID: 405416828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_DaoGuang_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1064
+        width: 1870
+        height: 532
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772e720cc3444fc428c37daba4a9614d
+      internalID: -1750579073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_DaoGuang_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 1064
+        width: 1870
+        height: 532
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9bc2b974ce609449a148cf86e23599
+      internalID: -785280039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_DaoGuang_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 5610
+        y: 1064
+        width: 1870
+        height: 532
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb577d6fb976d04da6649d570e9133a
+      internalID: 623436647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_DaoGuang_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 1870
+        height: 532
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b6802ce4d6caa4082ae6de89805eac
+      internalID: 609271994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_DaoGuang_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 532
+        width: 1870
+        height: 532
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf4f8193fef8b0458f128f5b76c2fb5
+      internalID: 1336654133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_DaoGuang_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 532
+        width: 1870
+        height: 532
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088bc2eb52336ce41a7578052a49e785
+      internalID: 416899810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_DaoGuang_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 5610
+        y: 532
+        width: 1870
+        height: 532
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5749b88e7d348984b8e49d3ab010f7b4
+      internalID: 532036906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_DaoGuang_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1870
+        height: 532
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd92f3f37716ae24d85736dceaf8c2e8
+      internalID: -1108760943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valenshina_DaoGuang_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 0
+        width: 1870
+        height: 532
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadd983d34ce5f54da35ce0f81e80e1a
+      internalID: -416695208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 19deb45afcaad754b848216f5e0393b6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":6.0},"gridSpriteSize":{"x":1870.0,"y":532.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Valenshina_DaoGuang_sheet_0: 4273939870741601541
+      Valenshina_DaoGuang_sheet_1: 627540035
+      Valenshina_DaoGuang_sheet_10: 130109107
+      Valenshina_DaoGuang_sheet_11: 7605744
+      Valenshina_DaoGuang_sheet_12: 405416828
+      Valenshina_DaoGuang_sheet_13: -1750579073
+      Valenshina_DaoGuang_sheet_14: -785280039
+      Valenshina_DaoGuang_sheet_15: 623436647
+      Valenshina_DaoGuang_sheet_16: 609271994
+      Valenshina_DaoGuang_sheet_17: 1336654133
+      Valenshina_DaoGuang_sheet_18: 416899810
+      Valenshina_DaoGuang_sheet_19: 532036906
+      Valenshina_DaoGuang_sheet_2: 1237174219
+      Valenshina_DaoGuang_sheet_20: -1108760943
+      Valenshina_DaoGuang_sheet_21: -416695208
+      Valenshina_DaoGuang_sheet_3: 222201795
+      Valenshina_DaoGuang_sheet_4: -1532519727
+      Valenshina_DaoGuang_sheet_5: -54002667
+      Valenshina_DaoGuang_sheet_6: -1688409927
+      Valenshina_DaoGuang_sheet_7: 1371099876
+      Valenshina_DaoGuang_sheet_8: -1605044524
+      Valenshina_DaoGuang_sheet_9: 2336605
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

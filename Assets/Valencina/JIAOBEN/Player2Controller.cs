@@ -11,6 +11,13 @@ public class Player2Controller : MonoBehaviour
     [Header("运动参数")]
     public float speed = 20f;
     public float jumpForce = 16f;
+    public float currentSpeed;
+    [Header("冲刺参数")]
+    public float dashSpeed=100f;
+    public float dashTimer;
+    public float dashTime=1f;
+    public bool isDash;
+    public float dashDirection;
 
     public bool isHurt;
     public float hurtForce = 10f;
@@ -22,6 +29,7 @@ public class Player2Controller : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         inputControl.Gameplay.Player_2_Jump.started += Jump;
         inputControl.Gameplay.Player_2_Attack.started += PlayAttack;
+        inputControl.Gameplay.Player_2_Dush.started += PlayDash;
         physcisCheck = GetComponent<PhysicsCheck>();
         player2Animation = GetComponent<Player2Animation>();
 
@@ -41,10 +49,10 @@ public class Player2Controller : MonoBehaviour
     }
     private void FixedUpdate()
     {
-        if (!isHurt)
-        {
+        if (isDash)
+            Dash();
+        else if(!isHurt&&!isDash)
             Move();
-        }
     }
     public void Move()
     {
@@ -72,11 +80,31 @@ public class Player2Controller : MonoBehaviour
         player2Animation.PlayAttack();
         isAttack = true;
     }
+    public void PlayDash(InputAction.CallbackContext context)
+    {
+        if (!isDash)
+        {
+            dashTimer = dashTime;
+            dashDirection = transform.localScale.x;
+            isDash = true;
+        }
+    }
+    public void Dash()
+    {
+        rb.linearVelocity = new Vector2(dashDirection * dashSpeed*Time.deltaTime, rb.linearVelocity.y);
+        dashTimer -= Time.deltaTime;
+        if (dashTimer <= 0)
+        {
+            isDash = false;
+        }
+
+    }
+
     public void GetHurt(Transform attacker)//受伤后被弹开
     {
         isHurt = true;
         rb.linearVelocity = Vector2.zero;
-        Vector2 dir = new Vector2((transform.position.x - attacker.position.x), 0).normalized;
+        Vector2 dir = new Vector2((transform.position.x - attacker.root.position.x), 0).normalized;
         rb.AddForce(dir * hurtForce, ForceMode2D.Impulse);
     }
     public void GetHurtRecover()

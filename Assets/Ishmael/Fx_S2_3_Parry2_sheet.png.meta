@@ -1,0 +1,674 @@
+fileFormatVersion: 2
+guid: 78a057f6809609e4b85f6e7c6d89211e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1089842896018471392
+    second: Fx_S2_3_Parry2_sheet_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fx_S2_3_Parry2_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5390
+        width: 1870
+        height: 1078
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9f926f656ef1f00800000000000000
+      internalID: 1089842896018471392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S2_3_Parry2_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 5390
+        width: 1870
+        height: 1078
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e898efb95c1d3b14284da5d14c4cbef0
+      internalID: -1839301867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S2_3_Parry2_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 5390
+        width: 1870
+        height: 1078
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22046d12f6682644796c9eb3ba2b7eda
+      internalID: 1496969125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S2_3_Parry2_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 5610
+        y: 5390
+        width: 1870
+        height: 1078
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8f45296b5bf414f9f0fab8f0f8b60f
+      internalID: 1459435580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S2_3_Parry2_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4312
+        width: 1870
+        height: 1078
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6be2010f89852439de2a1670121a50
+      internalID: 560257489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S2_3_Parry2_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 4312
+        width: 1870
+        height: 1078
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd28da31d4ff264fa58b5bbcbcb8c4d
+      internalID: -1928032243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S2_3_Parry2_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 4312
+        width: 1870
+        height: 1078
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caeb09fe52e4798499007ccaabaf4007
+      internalID: -770345322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S2_3_Parry2_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 5610
+        y: 4312
+        width: 1870
+        height: 1078
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6289c5b80a9c11f409ba498ffb69aff4
+      internalID: 2035473553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S2_3_Parry2_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3234
+        width: 1870
+        height: 1078
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780312ff0f98d04449bf5fcc92b1552b
+      internalID: -282691370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S2_3_Parry2_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 3234
+        width: 1870
+        height: 1078
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b85f38efe971b3488112fe06dcac542
+      internalID: -1190299052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S2_3_Parry2_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 3234
+        width: 1870
+        height: 1078
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab2e2e078f51e545bc6a5b3716a7c99
+      internalID: -986094381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S2_3_Parry2_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 5610
+        y: 3234
+        width: 1870
+        height: 1078
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db717d30a7751b5418cdccabc946cea0
+      internalID: 475100626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S2_3_Parry2_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2156
+        width: 1870
+        height: 1078
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be9825019b757744ac3ad2107e157e9
+      internalID: -2029854523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S2_3_Parry2_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 2156
+        width: 1870
+        height: 1078
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ef31abb0e5f3d4498159acd26c21a0
+      internalID: -216517401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S2_3_Parry2_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 2156
+        width: 1870
+        height: 1078
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ee40ebb4c1a6649a068439e50c6e2b
+      internalID: -619381017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S2_3_Parry2_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 5610
+        y: 2156
+        width: 1870
+        height: 1078
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d2ad697b4f25f4caf118b8ffece0a2
+      internalID: 637722068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S2_3_Parry2_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1078
+        width: 1870
+        height: 1078
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee78415d35c855049b3aa80791926de1
+      internalID: 1373350977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S2_3_Parry2_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1078
+        width: 1870
+        height: 1078
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f723e62b81dd7484985d4e4a366f0a8b
+      internalID: -1050454835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S2_3_Parry2_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 1078
+        width: 1870
+        height: 1078
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1416bb68b76a64faf060cc9ef21d17
+      internalID: -2127288043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S2_3_Parry2_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 5610
+        y: 1078
+        width: 1870
+        height: 1078
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792b18ce37dc68044b32d980a010226b
+      internalID: -1433095338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S2_3_Parry2_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1870
+        height: 1078
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252e66f5d24d4544b8166a9945f0f666
+      internalID: -1826846396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S2_3_Parry2_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 0
+        width: 1870
+        height: 1078
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fbbb18718aa704db8d4e851df4c7f4
+      internalID: 1643550920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S2_3_Parry2_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 0
+        width: 1870
+        height: 1078
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b1309f1a2ba6340b7768acee6b890b
+      internalID: -2130337329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_S2_3_Parry2_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 5610
+        y: 0
+        width: 1870
+        height: 1078
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b042e9e2b4ac2a4fa5e445127b34a4b
+      internalID: -622773127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9d58f108459920e4abf0446d659624ef
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":6.0},"gridSpriteSize":{"x":1870.0,"y":1078.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Fx_S2_3_Parry2_sheet_0: 1089842896018471392
+      Fx_S2_3_Parry2_sheet_1: -1839301867
+      Fx_S2_3_Parry2_sheet_10: -986094381
+      Fx_S2_3_Parry2_sheet_11: 475100626
+      Fx_S2_3_Parry2_sheet_12: -2029854523
+      Fx_S2_3_Parry2_sheet_13: -216517401
+      Fx_S2_3_Parry2_sheet_14: -619381017
+      Fx_S2_3_Parry2_sheet_15: 637722068
+      Fx_S2_3_Parry2_sheet_16: 1373350977
+      Fx_S2_3_Parry2_sheet_17: -1050454835
+      Fx_S2_3_Parry2_sheet_18: -2127288043
+      Fx_S2_3_Parry2_sheet_19: -1433095338
+      Fx_S2_3_Parry2_sheet_2: 1496969125
+      Fx_S2_3_Parry2_sheet_20: -1826846396
+      Fx_S2_3_Parry2_sheet_21: 1643550920
+      Fx_S2_3_Parry2_sheet_22: -2130337329
+      Fx_S2_3_Parry2_sheet_23: -622773127
+      Fx_S2_3_Parry2_sheet_3: 1459435580
+      Fx_S2_3_Parry2_sheet_4: 560257489
+      Fx_S2_3_Parry2_sheet_5: -1928032243
+      Fx_S2_3_Parry2_sheet_6: -770345322
+      Fx_S2_3_Parry2_sheet_7: 2035473553
+      Fx_S2_3_Parry2_sheet_8: -282691370
+      Fx_S2_3_Parry2_sheet_9: -1190299052
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

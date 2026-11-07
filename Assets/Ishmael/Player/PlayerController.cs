@@ -18,6 +18,7 @@ public class PlayerController : MonoBehaviour
     public float hurtForce=10f;
     public bool isDead;
     public bool isAttack;
+   
 
 
     private void Awake()
@@ -79,7 +80,7 @@ public class PlayerController : MonoBehaviour
     {
         isHurt = true;
         rb.linearVelocity = Vector2.zero;
-        Vector2 dir = new Vector2((transform.position.x-attacker.position.x),0).normalized;
+        Vector2 dir = new Vector2((transform.position.x-attacker.root.position.x),0).normalized;
         rb.AddForce(dir * hurtForce,ForceMode2D.Impulse);
     }
     public void PlayerDead()
@@ -91,5 +92,13 @@ public class PlayerController : MonoBehaviour
     {
         playerAnimation.PlayAttack();
         isAttack = true;
+    }
+    public void HurtRecover()
+    {
+        isHurt = false;
+    }
+    public void AttackRecover()
+    {
+        isAttack = false;
     }
 }
